@@ -184,7 +184,7 @@ In Java, a method signature consists of the method name and the parameter list. 
 
 - **C)** `public boolean update(String value, int id)` 
 - **D)** `void update(String value, int id)`
-  - This option have the same method signature (`update(String, int)`) as C because they both have the same method name and parameter list (a `String` and an `int`, in that order). The different access modifier and return type does not affect the method signature.
+  - This option has the same method signature (`update(String, int)`) as C because they both have the same method name and parameter list (a `String` and an `int`, in that order). The different access modifier and return type does not affect the method signature.
 
 - **E)** `protected void update(int id, int value) throws IOException`
   - This option also has a different parameter list (`update(int, int)`).
